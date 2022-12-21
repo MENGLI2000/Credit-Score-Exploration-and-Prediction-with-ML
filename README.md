@@ -1,1 +1,3 @@
 # Credit-Score-Exploration-and-Prediction-with-ML
+Default is a highly bothersome problem in the financial industry which causes huge losses for the lender companies. Thus, it is essential for the financial institutes to estimate the default risk of its customers to minimize the uncertainty in receiving the loan repayments. In this project, after conducting the data cleaning, we apply different machine learning models (logistic regression, KNN, decision tree, random forest) to the customers’ credit-related data to classify them into different credit score categories.
+<img width="845" alt="Screen Shot 2022-12-21 at 1 08 40 PM" src="https://user-images.githubusercontent.com/118396592/208974472-ce0f005d-76bd-41b1-aba9-6b71a107d468.png">
